@@ -61,7 +61,8 @@
     "jszip": "^3.4.0",
     "localforage": "^1.7.3",
     "lodash": "^4.17.15",
-    "marks-pane": "^1.0.9",
+    "marks": "git+ssh://git@github.com/759803573/marks.git",
+    "marks-pane": "github:759803573/marks#master",
     "path-webpack": "0.0.3",
     "xmldom": "^0.3.0"
   }
